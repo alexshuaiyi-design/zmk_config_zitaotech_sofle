@@ -259,8 +259,8 @@ layers:
   - ''
   - ''
   - LCTRL
+  - LGUI
   - LALT
-  - ''
   - SPACE
   - {t: QWERTY, h: toggle}
   - {t: QWERTY, h: toggle}
