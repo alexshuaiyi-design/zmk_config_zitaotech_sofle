@@ -124,6 +124,15 @@
         };
     };
 
+    macros {
+        zongjie: zongjie {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp Z &kp O &kp N &kp G &kp J &kp I &kp E &kp SPACE &kp KP_ENTER>;
+            label = "ZONGJIE";
+        };
+    };
+
     keymap {
         compatible = "zmk,keymap";
 
