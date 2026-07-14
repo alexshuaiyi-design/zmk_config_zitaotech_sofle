@@ -153,8 +153,8 @@
             display-name = "LOWER";
             bindings = <
 &kp ESC    &kp F1    &kp F2           &kp F3     &kp F4     &kp F5         &bt BT_CLR         &kp C_MUTE       &kp F6      &kp F7      &kp F8         &kp F9    &kp F10   &kp DEL
-&kp TAB    &trans    &kp UP           &trans     &trans     &kp RS(RG(S))  &kp F11            &kp F12          &trans      &trans      &trans         &kp BSLH
-&kp CAPS   &kp LEFT  &kp RS(RG(S))    &kp RIGHT  &trans     &kp LG(SPACE)  &mkp LCLK          &mkp RCLK        &zongjie    &kp HOME    &trans         &trans    &kp SQT   &kp ENTER
+&kp TAB    &trans    &kp UP           &trans     &kp RC(C)  &kp RS(RG(S))  &kp F11            &kp F12          &trans      &trans      &trans         &kp BSLH
+&kp CAPS   &kp LEFT  &kp RS(RG(S))    &kp RIGHT  &kp LC(V)  &kp LG(SPACE)  &mkp LCLK          &mkp RCLK        &zongjie    &kp HOME    &trans         &trans    &kp SQT   &kp ENTER
 &kp LSHFT  &trans    &rgb_ug RGB_TOG  &trans     &kp LC(W)  &kp LA(TAB)    &kp LC(PAGE_DOWN)  &kp LC(PAGE_UP)  &bl BL_DEC  &bl BL_INC  &kp LS(LC(Z))  &kp END   &kp LBKT  &kp RBKT   &kp UNDER  &kp PLUS
 &BOT       &kp LGUI  &kp LALT         &kp SPACE  &mo 1      &mo 1          &kp SPACE          &trans           &kp DOT     &BOT
             >;
