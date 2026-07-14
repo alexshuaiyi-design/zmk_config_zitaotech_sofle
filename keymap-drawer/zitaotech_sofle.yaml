@@ -35,8 +35,8 @@ layers:
   - DOWN
   - RIGHT
   - {t: ▽, type: trans}
-  - {t: Gui+SPACE, h: sticky}
-  - W
+  - Gui+SPACE
+  - Ctl+W
   - '&mkp RCLK'
   - HOME
   - {t: ▽, type: trans}
