@@ -36,10 +36,10 @@ layers:
   - RIGHT
   - {t: ▽, type: trans}
   - Gui+SPACE
-  - Ctl+W
+  - '&mkp LCLK'
   - '&mkp RCLK'
   - HOME
-  - {t: ▽, type: trans}
+  - HOME
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - ''''
@@ -54,8 +54,8 @@ layers:
   - Ctl+PAGE UP
   - '&bl BL_DEC'
   - '&bl BL_INC'
+  - Sft+Ctl+Z
   - END
-  - {t: ▽, type: trans}
   - '['
   - ']'
   - _
