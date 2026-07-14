@@ -22,7 +22,7 @@ layers:
   - {t: ▽, type: trans}
   - UP
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - Ctl+C
   - Sft+Gui+S
   - F11
   - F12
@@ -34,7 +34,7 @@ layers:
   - LEFT
   - Sft+Gui+S
   - RIGHT
-  - {t: ▽, type: trans}
+  - Ctl+V
   - Gui+SPACE
   - '&mkp LCLK'
   - '&mkp RCLK'
